@@ -1,0 +1,11 @@
+D:\Project\C\lab2_main\bin\Debug\lab2_main.exe.config
+D:\Project\C\lab2_main\bin\Debug\lab2_main.exe
+D:\Project\C\lab2_main\bin\Debug\lab2_main.pdb
+D:\Project\C\lab2_main\obj\Debug\lab2_main.csproj.AssemblyReference.cache
+D:\Project\C\lab2_main\obj\Debug\lab2_main.Form1.resources
+D:\Project\C\lab2_main\obj\Debug\lab2_main.Properties.Resources.resources
+D:\Project\C\lab2_main\obj\Debug\lab2_main.csproj.GenerateResource.cache
+D:\Project\C\lab2_main\obj\Debug\lab2_main.csproj.CoreCompileInputs.cache
+D:\Project\C\lab2_main\obj\Debug\lab2_main.exe
+D:\Project\C\lab2_main\obj\Debug\lab2_main.pdb
+D:\Project\C\lab2_main\obj\Debug\lab2_main.Form2.resources

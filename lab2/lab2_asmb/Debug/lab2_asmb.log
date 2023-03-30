@@ -1,0 +1,4 @@
+﻿  Assembling Source_ASM.asm...
+  lab2_asmb.cpp
+D:\Project\C++\2_course\lab2_asmb\lab2_asmb.cpp(50,5): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  lab2_asmb.vcxproj -> D:\Project\C++\2_course\lab2_asmb\Debug\lab2_asmb.exe
