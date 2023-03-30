@@ -1,0 +1,10 @@
+D:\Project\C++\2_course\lab1_wf_part2\bin\Debug\lab1_wf_part2.exe.config
+D:\Project\C++\2_course\lab1_wf_part2\bin\Debug\lab1_wf_part2.exe
+D:\Project\C++\2_course\lab1_wf_part2\bin\Debug\lab1_wf_part2.pdb
+D:\Project\C++\2_course\lab1_wf_part2\obj\Debug\lab1_wf_part2.csproj.AssemblyReference.cache
+D:\Project\C++\2_course\lab1_wf_part2\obj\Debug\lab1_wf_part2.Form1.resources
+D:\Project\C++\2_course\lab1_wf_part2\obj\Debug\lab1_wf_part2.Properties.Resources.resources
+D:\Project\C++\2_course\lab1_wf_part2\obj\Debug\lab1_wf_part2.csproj.GenerateResource.cache
+D:\Project\C++\2_course\lab1_wf_part2\obj\Debug\lab1_wf_part2.csproj.CoreCompileInputs.cache
+D:\Project\C++\2_course\lab1_wf_part2\obj\Debug\lab1_wf_part2.exe
+D:\Project\C++\2_course\lab1_wf_part2\obj\Debug\lab1_wf_part2.pdb

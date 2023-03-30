@@ -1,0 +1,14 @@
+D:\Project\C++\2_course\Lab1_sharp\bin\Debug\netcoreapp3.1\Lab1_sharp.exe
+D:\Project\C++\2_course\Lab1_sharp\bin\Debug\netcoreapp3.1\Lab1_sharp.deps.json
+D:\Project\C++\2_course\Lab1_sharp\bin\Debug\netcoreapp3.1\Lab1_sharp.runtimeconfig.json
+D:\Project\C++\2_course\Lab1_sharp\bin\Debug\netcoreapp3.1\Lab1_sharp.runtimeconfig.dev.json
+D:\Project\C++\2_course\Lab1_sharp\bin\Debug\netcoreapp3.1\Lab1_sharp.dll
+D:\Project\C++\2_course\Lab1_sharp\bin\Debug\netcoreapp3.1\Lab1_sharp.pdb
+D:\Project\C++\2_course\Lab1_sharp\obj\Debug\netcoreapp3.1\Lab1_sharp.csproj.AssemblyReference.cache
+D:\Project\C++\2_course\Lab1_sharp\obj\Debug\netcoreapp3.1\Lab1_sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C++\2_course\Lab1_sharp\obj\Debug\netcoreapp3.1\Lab1_sharp.AssemblyInfoInputs.cache
+D:\Project\C++\2_course\Lab1_sharp\obj\Debug\netcoreapp3.1\Lab1_sharp.AssemblyInfo.cs
+D:\Project\C++\2_course\Lab1_sharp\obj\Debug\netcoreapp3.1\Lab1_sharp.csproj.CoreCompileInputs.cache
+D:\Project\C++\2_course\Lab1_sharp\obj\Debug\netcoreapp3.1\Lab1_sharp.dll
+D:\Project\C++\2_course\Lab1_sharp\obj\Debug\netcoreapp3.1\Lab1_sharp.pdb
+D:\Project\C++\2_course\Lab1_sharp\obj\Debug\netcoreapp3.1\Lab1_sharp.genruntimeconfig.cache
