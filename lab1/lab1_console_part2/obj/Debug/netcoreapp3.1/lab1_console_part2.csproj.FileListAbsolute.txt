@@ -1,0 +1,14 @@
+D:\Project\C++\2_course\lab1_console_part2\bin\Debug\netcoreapp3.1\lab1_console_part2.exe
+D:\Project\C++\2_course\lab1_console_part2\bin\Debug\netcoreapp3.1\lab1_console_part2.deps.json
+D:\Project\C++\2_course\lab1_console_part2\bin\Debug\netcoreapp3.1\lab1_console_part2.runtimeconfig.json
+D:\Project\C++\2_course\lab1_console_part2\bin\Debug\netcoreapp3.1\lab1_console_part2.runtimeconfig.dev.json
+D:\Project\C++\2_course\lab1_console_part2\bin\Debug\netcoreapp3.1\lab1_console_part2.dll
+D:\Project\C++\2_course\lab1_console_part2\bin\Debug\netcoreapp3.1\lab1_console_part2.pdb
+D:\Project\C++\2_course\lab1_console_part2\obj\Debug\netcoreapp3.1\lab1_console_part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C++\2_course\lab1_console_part2\obj\Debug\netcoreapp3.1\lab1_console_part2.AssemblyInfoInputs.cache
+D:\Project\C++\2_course\lab1_console_part2\obj\Debug\netcoreapp3.1\lab1_console_part2.AssemblyInfo.cs
+D:\Project\C++\2_course\lab1_console_part2\obj\Debug\netcoreapp3.1\lab1_console_part2.csproj.CoreCompileInputs.cache
+D:\Project\C++\2_course\lab1_console_part2\obj\Debug\netcoreapp3.1\lab1_console_part2.dll
+D:\Project\C++\2_course\lab1_console_part2\obj\Debug\netcoreapp3.1\lab1_console_part2.pdb
+D:\Project\C++\2_course\lab1_console_part2\obj\Debug\netcoreapp3.1\lab1_console_part2.genruntimeconfig.cache
+D:\Project\C++\2_course\lab1_console_part2\obj\Debug\netcoreapp3.1\lab1_console_part2.csproj.AssemblyReference.cache
